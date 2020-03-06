@@ -2,18 +2,18 @@
 
 ### 1.项目结构目录
 
-.
-├── README.md
-├── config.py
-├── data
-│   ├── cnews
-│   ├── stopwords
-│   └── wordVectors
-├── dataset.py
-├── main.py
-├── model
-├── model.py
-└── train.py
+. \
+├── README.md\
+├── config.py\
+├── data\
+│   ├── cnews\
+│   ├── stopwords\
+│   └── wordVectors\
+├── dataset.py\
+├── main.py\
+├── model\
+├── model.py\
+└── train.py\
 
 ### 2.文件说明
 
